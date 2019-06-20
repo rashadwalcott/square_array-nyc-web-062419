@@ -4,5 +4,5 @@ def square_array(array)
   array.collect do |i|
     arr << i ** 2
   end
-  arr
+  #arr
 end
